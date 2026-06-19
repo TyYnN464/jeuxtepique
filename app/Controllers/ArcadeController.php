@@ -35,6 +35,13 @@ final class ArcadeController extends Controller
             return;
         }
 
+        if ($game === 'connect4') {
+            $this->view('games/arcade/connect4', [
+                'title' => 'Puissance 4 - JeuxTepique',
+            ]);
+            return;
+        }
+
         $this->view('games/arcade/rps', [
             'title' => 'Pierre Feuille Ciseaux - JeuxTepique',
             'result' => $_SESSION['rps_last_result'] ?? null,

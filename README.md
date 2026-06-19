@@ -1,6 +1,6 @@
 # JeuxTepique
 
-JeuxTepique est une plateforme de mini-jeux en PHP natif pour serveur LAMP. Le projet inclut authentification, profils avec avatars, tableau de bord, morpion solo contre une IA simple, multijoueur par invitation, historique, classements et administration.
+JeuxTepique est une plateforme de mini-jeux en PHP natif pour serveur LAMP. Le projet inclut authentification, profils avec avatars, tableau de bord, morpion solo contre une IA simple, multijoueur par invitation, Puissance 4, Memory, Pierre Feuille Ciseaux, historique, classements et administration.
 
 ## Stack
 
@@ -268,7 +268,7 @@ cd /var/www/jeuxtepique
 
 ## Evolutions possibles
 
-- Puissance 4 avec grille 7x6 et detection de lignes.
+- Puissance 4 multijoueur persiste en base.
 - Quiz duel avec categories, minuterie et questions aleatoires.
 - Chat de partie stocke en base.
 - Notifications d'invitation et de tour joueur.

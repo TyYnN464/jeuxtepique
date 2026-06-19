@@ -149,5 +149,5 @@ INSERT INTO games (slug, name, description, is_active, sort_order) VALUES
 ('tictactoe', 'Morpion', 'Duel 3x3 en solo contre la machine ou en multijoueur prive.', 1, 10),
 ('rps', 'Pierre Feuille Ciseaux', 'Mini-duel instantane contre la machine.', 1, 20),
 ('memory', 'Memory spatial', 'Retrouvez toutes les paires dans une grille galactique.', 1, 30),
-('connect4', 'Puissance 4', 'Alignez quatre jetons dans une grille verticale.', 0, 40),
+('connect4', 'Puissance 4', 'Alignez quatre jetons dans une grille verticale.', 1, 40),
 ('quiz-duel', 'Quiz duel', 'Affrontez un ami sur des questions chronometrees.', 0, 50);
