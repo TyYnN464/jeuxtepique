@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Fusee">
+  <defs>
+    <linearGradient id="r" x1="35" x2="98" y1="24" y2="102" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#c4b5fd"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="#080b1d"/>
+  <path fill="#8b5cf6" d="M43 91 28 104l9-25Z"/>
+  <path fill="#38bdf8" d="M82 45 98 30c2 20-3 39-17 57L41 47C59 33 78 28 98 30Z"/>
+  <path fill="url(#r)" d="M39 50c18-18 38-27 59-20-7 21-2 40-20 59L39 50Z"/>
+  <circle cx="71" cy="57" r="10" fill="#0f172a"/>
+  <circle cx="71" cy="57" r="5" fill="#38bdf8"/>
+  <path fill="#fb7185" d="M45 88c-8 4-16 13-20 25 12-5 21-12 25-20Z"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Etoile">
+  <rect width="128" height="128" rx="28" fill="#070816"/>
+  <path fill="#fbbf24" d="m64 18 12 30 32 2-25 20 8 31-27-17-27 17 8-31-25-20 32-2Z"/>
+  <path fill="#f8fafc" d="m64 35 7 18 19 1-15 12 5 18-16-10-16 10 5-18-15-12 19-1Z" opacity=".34"/>
+  <circle cx="35" cy="31" r="3" fill="#38bdf8"/>
+  <circle cx="97" cy="91" r="4" fill="#8b5cf6"/>
+</svg>

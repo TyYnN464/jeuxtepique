@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Manette">
+  <rect width="128" height="128" rx="28" fill="#080b1d"/>
+  <path fill="#e0e7ff" d="M34 49h60c12 0 20 10 22 29l1 10c1 9-9 15-16 9L83 82H45L27 97c-7 6-17 0-16-9l1-10c2-19 10-29 22-29Z"/>
+  <path fill="#8b5cf6" d="M40 62h9v9h9v9h-9v9h-9v-9h-9v-9h9Z"/>
+  <circle cx="86" cy="70" r="6" fill="#38bdf8"/>
+  <circle cx="101" cy="82" r="6" fill="#4f46e5"/>
+  <path fill="#0f172a" d="M55 44h18v7H55z"/>
+</svg>

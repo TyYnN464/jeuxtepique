@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Astronaute">
+  <defs>
+    <linearGradient id="a" x1="18" x2="110" y1="18" y2="112" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="#080b1d"/>
+  <circle cx="64" cy="64" r="50" fill="url(#a)" opacity=".22"/>
+  <circle cx="64" cy="56" r="34" fill="#f8fafc"/>
+  <path fill="#0f172a" d="M37 55c4-17 18-25 27-25s23 8 27 25c-5 12-15 20-27 20S42 67 37 55Z"/>
+  <circle cx="50" cy="53" r="4" fill="#38bdf8"/>
+  <circle cx="78" cy="53" r="4" fill="#8b5cf6"/>
+  <path fill="#e0e7ff" d="M38 85c8-9 16-13 26-13s18 4 26 13v17H38V85Z"/>
+  <path fill="#38bdf8" d="M55 85h18v9H55z"/>
+</svg>
